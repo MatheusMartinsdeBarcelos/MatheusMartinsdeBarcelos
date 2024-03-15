@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Matheus Barcelos, I am a System Analysis and Development student. I have knowledge in Java, MySQL database, Java Spring as a framework, HTML and CSS as a basis for the frontend.
 
 <!--
 **MatheusMartinsdeBarcelos/MatheusMartinsdeBarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
