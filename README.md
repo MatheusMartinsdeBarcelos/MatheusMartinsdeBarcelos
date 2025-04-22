@@ -6,7 +6,7 @@
 
 ---
 
-- 😁 Atualmente sou estagiário de suporte
+- 💼 Atualmente sou estagiário de suporte
 - 📕 Estudando HTML, CSS, JavaScript, Java e Phyton
   
 ---
