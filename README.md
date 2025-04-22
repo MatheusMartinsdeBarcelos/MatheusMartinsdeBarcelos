@@ -24,7 +24,7 @@
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](www.linkedin.com/in/matheusmartinsdebarcelos)
+- 💼 [LinkedIn] www.linkedin.com/in/matheusmartinsdebarcelos
 - ✉️ Email: matheusmartinsdebarcelos@gmail.com
 - 📞 Telefone: (62)99967-3251
 
