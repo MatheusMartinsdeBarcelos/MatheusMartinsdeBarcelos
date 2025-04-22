@@ -1,16 +1,31 @@
-### Hi, my name is Matheus Barcelos, I am a System Analysis and Development student. I have knowledge in Java, MySQL database, Java Spring as a framework, HTML and CSS as a basis for the frontend.
+# Olá meu nome é Matheus Martins de Barcelos 👨‍💻
 
-<!--
-**MatheusMartinsdeBarcelos/MatheusMartinsdeBarcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😁 Atualmente sou estagiário de suporte
+- 📕 Estudando HTML, CSS, JavaScript, Java e Phyton
+  
+---
+
+## 📱 Minhas Redes
+ 
+<div> 
+  <a href="https://instagram.com/matheussbarceloss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:matheusmartinsdebarcelos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusmartinsdebarcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+  
+</div>
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](www.linkedin.com/in/matheusmartinsdebarcelos)
+- ✉️ Email: matheusmartinsdebarcelos@gmail.com
+- 📞 Telefone: (62)99967-3251
+
+---
