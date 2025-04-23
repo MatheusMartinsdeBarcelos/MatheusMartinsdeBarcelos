@@ -7,7 +7,9 @@
 ---
 
 - 💼 Atualmente sou estagiário de suporte
-- 📕 Estudando HTML, CSS, JavaScript, Java e Phyton
+- Frontend: HTML, CSS e JavaScript
+- Backend: Java, Python, MySQL, PostgresSQL e DBeaver
+- Frameworks: SpringBoot e React
   
 ---
 
