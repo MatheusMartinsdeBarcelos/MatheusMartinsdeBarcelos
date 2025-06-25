@@ -6,7 +6,6 @@
 
 ---
 
-- 💼 Atualmente sou estagiário de suporte
 - Frontend: HTML, CSS e JavaScript
 - Backend: Java, Python, MySQL, PostgreSQL e DBeaver
 - Frameworks: SpringBoot e React
